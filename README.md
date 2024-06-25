@@ -1,7 +1,8 @@
-### Hello World, My Name is Tien ❤️❤️ !
-- I love cats 😺
-- Exploring the world 🌍
-- Meeting new people 👩🏻‍💻
-- and ... CODING 💻📱
+### Hello World! My Name is Tien !
+
+welcome to my page! 
+i am currently a senior in highschool
+interested in medicial sciences and computer science! 
+
 
 
